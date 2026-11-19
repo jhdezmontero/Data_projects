@@ -1,6 +1,6 @@
-# Yandex Data Science Projects
+# Data Projects
 
-Data analysis and data science projects from the Yandex Bootcamp
+Data analysis and data science projects from the Tripleteen (formerly Practicum - Yandex) Bootcamp
 
 | Project name | Description                                    | Skills              | Libraries      |
 |--------------|------------------------------------------------|---------------------|----------------|
